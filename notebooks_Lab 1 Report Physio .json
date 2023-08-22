@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    },
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": "Lab 1 General Format Guideline",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "Purpose- \nThe use of physiological parameters that requires the use of instrumention.\nMeasuring a pulse rate that requires using a time device and important \nto become familiar with first lab with \"tools of the trade''. Also , learn \nthe involvement of the measurment in chemical and physical paramaters.\nIt involves these measurments that are Chemical determination which are \nindicators that change colors with different chemical conditions and with \nspecific ion meters and pH . The other one is physical determinations: \nThermometers that measures thermal energy of temperture by electronic \nmeans ordisplacement of mercury. Sethoscopes are instruments that \nmonitor internal energy by auditory. sphygmomanometers measure blood \npresssure changes by displacement of mercury, springs, or electronic\nmeans. Spirometers and pneumographs- that measures volume changes of \nthorax relating to ventilation and air exchange. Electronic instruments-\nmonitors and display a biologica phenomena.\n",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "Procedures-\n1-A: Demystifying the black box\nstep 1: Observe these Instrumenta\n-Biological event\n-Input transducer or electrode\n-Amplifier\n-Output transducer(Display)\nStep 2 make a effort to reconize or indentify these insturments on sight.\nStep 3 to understand the \"black box\" instrument for this experiment and \nmeasurment of physiological events.",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "1-B: Units of measure\nStep 1- familiarize the basic of meater unita of measure.\nStep 2- learn the basic of each unit measurments.\nStep 3- Learn the signinificance of the prefex of each unit.\nStep 4- finish worksheet on oage 6 with following information given.",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "Results-\n- using basic multiplicatin and division to aolve these problem on page 6 \nand 7. Time measurements was used with a 'black box' to measure your pulse\n per seconds/ minutes and solving by multiply the second by 4 to get beats\n    per minute. \n  -  pH measurments used 3 container of liquid to get pH by observing the \nstrips. \n- switching to mm to cm\n28.1mm to 2810cm \n-mass measurment \n107.27*1000= 107,270",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "Discussion- \nthe only limitation was actually using the 'black box' during the \nexperiment and personally using/ familarizing it. most of this experiment \nwas on electronic and understanding of each componets being used.\n",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "Conlusion-\nThroughout the lab 1 it was mostly understanding the metric system and \nconvert to different metric system. Visualize when the metric system needs\nto be used. Also recognize the 'black box' and using electronic \ninstruments and familarize each electronic piece that is being used \nin the lab. Also, understanding the hydrogen ion concentration of \nacidity and alkalinity of a solution of pH. During the lab different items \nwere provided such as graduated cylinder and beaker to measure the mass\nvolume.\n",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
